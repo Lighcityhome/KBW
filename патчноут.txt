@@ -1,0 +1,28 @@
+Abbadon
+
+Уменьшен кулдаун abaddon_aphotic_shield до 5 секунд на всех уровнях
+
+Ослабленно замедленеи abaddon_frostmourne 15 20 25 30 35 40 45
+					20 30 40 50 60 70 80
+Abyssal underlord
+
+Уменьшена задержка теелпортации underlord_dark_rift до 4.0 3.0 2.0 1.0
+
+Уменьшен куладун abyssal_underlord_firestorm до 12 на всех уровнях 
+
+Alchemist
+
+Усиленно снижение брони alchemist_acid_spray 6 8 11 15 21 29 40
+Увеличен урон alchemist_acid_spray  25 42 72 122 208 353 600
+Уменьшен кулдаун alchemist_acid_spray 15 секунд 
+Уменьшенна длительность alchemist_acid_spray 10 секунд 
+
+Уменьшен кулдаун alchemist_unstable_concoction 12 на всех уровнях
+
+Уменьшенна перезорядка alchemist_berserk_potion до 30 секунд 
+
+Перезарядка alchemist_chemical_rage увеличена до 60 секунд
+Длительность alchemist_chemical_rage увеличена до 30 секунд
+Хп реген alchemist_chemical_rage увеличен 75 136 248 450
+
+Усмлен талант 15-го уронвя на урон до 120 урона
